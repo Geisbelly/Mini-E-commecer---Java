@@ -1,1 +1,1 @@
-# Mini-E-commecer---Java
+# E-commecer-Java
